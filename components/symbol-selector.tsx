@@ -61,4 +61,3 @@ export default function SymbolSelector({ value, onChange }: SymbolSelectorProps)
     </Popover>
   )
 }
-
